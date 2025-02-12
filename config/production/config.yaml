@@ -2,6 +2,11 @@
 
 baseURL: https://environnement-sante.rennes.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 3a643d58-314b-4397-bb09-e114e7d6fedb
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
