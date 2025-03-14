@@ -6,5 +6,5 @@ allowed_domains:
   - "osuny.s3.fr-par.scw.cloud"
   - "tile.openstreetmap.org"
   - "www.youtube.com"
-  - "v.calameo.com"
   - "mviewer.sig.rennesmetropole.fr"
+  - "v.calameo.com"
